@@ -1,0 +1,50 @@
+body {
+  font-family: 'work sans';
+}
+
+table {
+  width: 100%;
+}
+
+.image {
+  border: red 20px;
+}
+
+table img,
+table h3 {
+  width: 100%;
+
+  padding: 15px;
+}
+
+.color {
+  color: red;
+}
+
+.change {
+  text-align: center;
+  color: red;
+}
+
+.changeColor {
+  border-color: transparent;
+  background-color: #373737;
+  padding: 11px 33px;
+  border-radius: 1em;
+  color: white;
+  font-weight: 600;
+}
+
+.changeBgColor {
+  border-color: transparent;
+  background-color: #5ae63e;
+  padding: 11px 33px;
+  border-radius: 1em;
+  color: white;
+  font-weight: 600;
+}
+
+.changeBg {
+  text-align: center;
+  color: red;
+}
